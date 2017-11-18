@@ -1,0 +1,19 @@
+{
+  "name": "mean-docker",
+  "version": "1.0.0",
+  "description": "App to show a Docker Compose set up for a mean application running Angular 2.",
+  "main": "cd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uendno/mean-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uendno/mean-docker/issues"
+  },
+  "homepage": "https://github.com/uendno/mean-docker#readme"
+}
